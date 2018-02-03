@@ -15,9 +15,7 @@ public class Test {
      System.out.println("wang");
      System.out.println("yy");
      System.out.println("pp");
-    ;
-SADASD
-ASDASD
+    
      System.out.println("wang");
 
      System.out.println("kkkk");
