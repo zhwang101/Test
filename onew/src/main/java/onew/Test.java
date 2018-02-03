@@ -21,6 +21,7 @@ public class Test {
 
      System.out.println("kkkk");
 
+<<<<<<< HEAD
      System.out.println("WABG");
      System.out.println("yyyy");
      System.out.println("rrrr");
@@ -30,6 +31,17 @@ public class Test {
 	}
 
 }
+=======
+
+     int f=77;
+     int f2=77;
+	}
+
+}
+
+
+
+>>>>>>> b10d9904aece17d3c7d23eed9b14ed33c28717d1
 
 
 
