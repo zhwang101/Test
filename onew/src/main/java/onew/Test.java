@@ -15,7 +15,9 @@ public class Test {
      System.out.println("yyyy");
      System.out.println("dddd");
      
-     System.out.println("jjjjjj");
+     System.out.println("jjjjjj	");
+     int a=1;
+     int b=2;
 	}
 
 }
