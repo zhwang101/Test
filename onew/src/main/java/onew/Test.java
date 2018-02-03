@@ -14,8 +14,10 @@ public class Test {
      System.out.println("nn");
      System.out.println("uu");
      System.out.println("oo");
-     
-
+     System.out.println("kkkk");
+     System.out.println("xxcc");
+     System.out.println("yyyy");
+     System.out.println("dddd");
 	}
 
 }
