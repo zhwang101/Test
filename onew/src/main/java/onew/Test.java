@@ -15,9 +15,7 @@ public class Test {
      System.out.println("wang");
      System.out.println("yy");
      System.out.println("pp");
-     System.out.println("nn");
-     System.out.println("uu");
-     System.out.println("oo");
+    ;
 
      System.out.println("wang");
 
@@ -28,7 +26,7 @@ public class Test {
      
      int a=1;
      int b=2;
-     int c=3;
+     int f=3;
 	}
 
 }
