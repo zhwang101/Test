@@ -8,12 +8,13 @@ public class Test {
      System.out.println("two");
      System.out.println("three");
      System.out.println("chon1");
-
+     System.out.println("wang");
      System.out.println("yy");
      System.out.println("pp");
      System.out.println("nn");
      System.out.println("uu");
-     System.out.println("xxxxxx");
+     System.out.println("oo");
+     
 
 	}
 
