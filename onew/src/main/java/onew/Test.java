@@ -9,15 +9,13 @@ public class Test {
      System.out.println("three");
      System.out.println("chon1");
      System.out.println("wang");
-     System.out.println("yy");
-     System.out.println("pp");
-     System.out.println("nn");
-     System.out.println("uu");
-     System.out.println("oo");
+
      System.out.println("kkkk");
      System.out.println("xxcc");
      System.out.println("yyyy");
      System.out.println("dddd");
+     
+     System.out.println("jjjjjj");
 	}
 
 }
