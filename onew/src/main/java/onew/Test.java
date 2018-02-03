@@ -23,10 +23,11 @@ public class Test {
 
      System.out.println("xxcc");
      System.out.println("yyyy");
-     
+     System.out.println("rrrr");
      int a=1;
      int b=2;
-     int f=3;
+     int f=77;
+     int f2=77;
 	}
 
 }
